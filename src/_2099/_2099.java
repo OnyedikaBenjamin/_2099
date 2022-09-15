@@ -1,3 +1,5 @@
+package _2099;
+
 public class _2099 {
         public static void main(String[] args) {
             int a = 2010;
